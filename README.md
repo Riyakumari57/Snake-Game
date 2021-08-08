@@ -7,7 +7,12 @@ https://riyakumari57.github.io/Snake-Game/ 👀👾🐍🐍
 <h1>Feed the snake to increase the size of the snake and the score :)</h1>
 
 ![image](https://user-images.githubusercontent.com/65845230/128610306-b5bcd7b3-bc12-4c85-9833-c39dec83dda1.png)
+
+
 ![image](https://user-images.githubusercontent.com/65845230/128610275-826b6d39-f32d-415b-992a-f3fb98221b0c.png)
+
+<h1>Avoid Bumping into the wall and to the snake's body !</h1>
+
 ![image](https://user-images.githubusercontent.com/65845230/128610316-aaa3c39e-d331-4b1e-bb17-6ce943ea0492.png)
 
 
