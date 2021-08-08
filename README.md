@@ -8,8 +8,11 @@ https://riyakumari57.github.io/Snake-Game/ 👀👾🐍🐍
 
 ![image](https://user-images.githubusercontent.com/65845230/128610306-b5bcd7b3-bc12-4c85-9833-c39dec83dda1.png)
 
+</br>
 
 ![image](https://user-images.githubusercontent.com/65845230/128610275-826b6d39-f32d-415b-992a-f3fb98221b0c.png)
+
+</br>
 
 <h1>Avoid Bumping into the wall and to the snake's body !</h1>
 
